@@ -5,7 +5,7 @@
 #
 # Generated October 20, 2013
 #
-# This configuration file is custom generated for VaPoo
+# This configuration file is custom generated for IvanCO
 
 
 # Here are the settings that are common to all environments
@@ -15,7 +15,7 @@ common: &default_settings
   # You must specify the license key associated with your New Relic
   # account.  This key binds your Agent's data to your account in the
   # New Relic service.
-  license_key: 'd75a3ba157ac101aee92b9f6f8e83a8a67d0a78d'
+  license_key: '8fd415a153ea09146317a57028a8111beb967686'
 
   # Agent Enabled (Ruby/Rails Only)
   # Use this setting to force the agent to run or not run.
