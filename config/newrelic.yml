@@ -5,7 +5,7 @@
 #
 # Generated October 20, 2013
 #
-# This configuration file is custom generated for IvanCO
+# This configuration file is custom generated for Blogger_1
 
 
 # Here are the settings that are common to all environments
@@ -15,7 +15,7 @@ common: &default_settings
   # You must specify the license key associated with your New Relic
   # account.  This key binds your Agent's data to your account in the
   # New Relic service.
-  license_key: '8fd415a153ea09146317a57028a8111beb967686'
+  license_key: '169ff519a10d8d5cc9ee5e35105161490dfb19ba'
 
   # Agent Enabled (Ruby/Rails Only)
   # Use this setting to force the agent to run or not run.
