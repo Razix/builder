@@ -5,7 +5,7 @@
 #
 # Generated October 20, 2013
 #
-# This configuration file is custom generated for Motmo
+# This configuration file is custom generated for Vito_3
 
 
 # Here are the settings that are common to all environments
@@ -15,7 +15,7 @@ common: &default_settings
   # You must specify the license key associated with your New Relic
   # account.  This key binds your Agent's data to your account in the
   # New Relic service.
-  license_key: '360b9f5e6bc18b147c05a346f199fd640d94bf63'
+  license_key: '5be7082efe568088cde12390925dceab245aab80'
 
   # Agent Enabled (Ruby/Rails Only)
   # Use this setting to force the agent to run or not run.
