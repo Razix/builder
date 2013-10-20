@@ -5,7 +5,7 @@
 #
 # Generated October 20, 2013
 #
-# This configuration file is custom generated for Blogger_1
+# This configuration file is custom generated for TomKa
 
 
 # Here are the settings that are common to all environments
@@ -15,7 +15,7 @@ common: &default_settings
   # You must specify the license key associated with your New Relic
   # account.  This key binds your Agent's data to your account in the
   # New Relic service.
-  license_key: '169ff519a10d8d5cc9ee5e35105161490dfb19ba'
+  license_key: 'ed3a78394ee8330b1275dcdce7413eb3a47e5d48'
 
   # Agent Enabled (Ruby/Rails Only)
   # Use this setting to force the agent to run or not run.
