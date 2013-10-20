@@ -5,7 +5,7 @@
 #
 # Generated October 20, 2013
 #
-# This configuration file is custom generated for SIT_12
+# This configuration file is custom generated for PHip
 
 
 # Here are the settings that are common to all environments
@@ -15,7 +15,7 @@ common: &default_settings
   # You must specify the license key associated with your New Relic
   # account.  This key binds your Agent's data to your account in the
   # New Relic service.
-  license_key: 'f8ed42205f018f7e513f99369b464f65d3638a37'
+  license_key: '793bcff0847505bfabfc43e7106b9b24ee9c2f9d'
 
   # Agent Enabled (Ruby/Rails Only)
   # Use this setting to force the agent to run or not run.
