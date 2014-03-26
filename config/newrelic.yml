@@ -5,7 +5,7 @@
 #
 # Generated March 26, 2014
 #
-# This configuration file is custom generated for BD_21
+# This configuration file is custom generated for BKKoo
 
 
 # Here are the settings that are common to all environments
@@ -15,7 +15,7 @@ common: &default_settings
   # You must specify the license key associated with your New Relic
   # account.  This key binds your Agent's data to your account in the
   # New Relic service.
-  license_key: 'ef5416397885c49fcaceae353212ea30d161c7a0'
+  license_key: '0c0772288309058059de33e897a533305e8505de'
 
   # Agent Enabled (Ruby/Rails Only)
   # Use this setting to force the agent to run or not run.
