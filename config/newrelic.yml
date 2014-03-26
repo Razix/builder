@@ -3,9 +3,9 @@
 # Ruby, Java, .NET, PHP, and Python applications with deep visibility and low overhead.
 # For more information, visit www.newrelic.com.
 #
-# Generated February 14, 2014
+# Generated March 26, 2014
 #
-# This configuration file is custom generated for YWs
+# This configuration file is custom generated for BD_21
 
 
 # Here are the settings that are common to all environments
@@ -15,7 +15,7 @@ common: &default_settings
   # You must specify the license key associated with your New Relic
   # account.  This key binds your Agent's data to your account in the
   # New Relic service.
-  license_key: '1af9f93f17d7a6a6350fe50b19426c5c60be8233'
+  license_key: 'ef5416397885c49fcaceae353212ea30d161c7a0'
 
   # Agent Enabled (Ruby/Rails Only)
   # Use this setting to force the agent to run or not run.
