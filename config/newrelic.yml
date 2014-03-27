@@ -5,7 +5,7 @@
 #
 # Generated March 27, 2014
 #
-# This configuration file is custom generated for MyY
+# This configuration file is custom generated for Banagor
 
 
 # Here are the settings that are common to all environments
@@ -15,7 +15,7 @@ common: &default_settings
   # You must specify the license key associated with your New Relic
   # account.  This key binds your Agent's data to your account in the
   # New Relic service.
-  license_key: '6028f45cb1376178e65d0b732c1fedd7168560c3'
+  license_key: '6c1070557a1ef54567a1b23eaddbb9758de3c713'
 
   # Agent Enabled (Ruby/Rails Only)
   # Use this setting to force the agent to run or not run.
