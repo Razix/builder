@@ -5,7 +5,7 @@
 #
 # Generated March 31, 2014
 #
-# This configuration file is custom generated for GlobaNa
+# This configuration file is custom generated for VigoMAN
 
 
 # Here are the settings that are common to all environments
@@ -15,7 +15,7 @@ common: &default_settings
   # You must specify the license key associated with your New Relic
   # account.  This key binds your Agent's data to your account in the
   # New Relic service.
-  license_key: '5d530300c67274335256c8ec49b35482581dd1be'
+  license_key: 'db81305b329868db25bcaed05aa0c448751af14d'
 
   # Agent Enabled (Ruby/Rails Only)
   # Use this setting to force the agent to run or not run.
