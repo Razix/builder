@@ -3,9 +3,9 @@
 # Ruby, Java, .NET, PHP, and Python applications with deep visibility and low overhead.
 # For more information, visit www.newrelic.com.
 #
-# Generated March 28, 2014
+# Generated March 31, 2014
 #
-# This configuration file is custom generated for CoCole
+# This configuration file is custom generated for VIHAL
 
 
 # Here are the settings that are common to all environments
@@ -15,7 +15,7 @@ common: &default_settings
   # You must specify the license key associated with your New Relic
   # account.  This key binds your Agent's data to your account in the
   # New Relic service.
-  license_key: '1521dae690dff869ba235ee01c7df944def21448'
+  license_key: '5ee2c9677ca77a067a8194f6ad325c0fa4897a37'
 
   # Agent Enabled (Ruby/Rails Only)
   # Use this setting to force the agent to run or not run.
