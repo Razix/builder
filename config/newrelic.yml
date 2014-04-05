@@ -5,7 +5,7 @@
 #
 # Generated April 05, 2014
 #
-# This configuration file is custom generated for KOKOz
+# This configuration file is custom generated for RobinDO
 
 
 # Here are the settings that are common to all environments
@@ -15,7 +15,7 @@ common: &default_settings
   # You must specify the license key associated with your New Relic
   # account.  This key binds your Agent's data to your account in the
   # New Relic service.
-  license_key: '0c3aa46376f7e12464dbac9e356809f639861946'
+  license_key: '99526277a0ce971a242ad8feee85a7bd573455f0'
 
   # Agent Enabled (Ruby/Rails Only)
   # Use this setting to force the agent to run or not run.
